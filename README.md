@@ -4,7 +4,7 @@ Challagner basado en la los estudios de Estadística
 El objetivo de este Challenger es:
 
 1) predecir el churn (cancelación) de clientes en base a variables relevantes.
-2) Se debe cargar el archivo tratado llamado datos_tratados.csv
+2) Se debe cargar el archivo tratado llamado df_plano.csv
 3) Se procede a realizar los siguientes cambios:
    - ELiminacion de columnas Inecesarias
    - Clasificacion de varibales
